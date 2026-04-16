@@ -167,7 +167,7 @@ python python/etl_pipeline.py
 
 ## 📚 Dataset
 
-- **Source:** [Codebasics Sales Insights Project — Kaggle](https://www.kaggle.com/datasets/)
+- **Source:** [Sales Data Insights— Kaggle]([https://www.kaggle.com/datasets/](https://www.kaggle.com/code/abdunnoor11/sales-data-analysis/input))
 - **Coverage:** June 2017 – June 2020
 - **Raw size:** ~150,000 transaction rows
 - **Sample:** `data/sales_sample.csv` — 1,000 anonymised rows included in this repo
