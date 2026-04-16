@@ -1,0 +1,7 @@
+# Core data stack
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Notebook environment
+jupyterlab>=4.0.0
+nbformat>=5.9.0

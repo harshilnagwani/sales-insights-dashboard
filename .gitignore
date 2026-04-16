@@ -1,0 +1,32 @@
+# -------------------------------------------------------
+# Raw / full datasets — do not commit (too large)
+# -------------------------------------------------------
+data/sales_cleaned.csv
+data/*.sql
+!sql/
+
+# MySQL dumps — download from Kaggle
+db_dump*.sql
+
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Power BI binaries — screenshots only, not .pbix
+*.pbix
+*.pbit

@@ -1,0 +1,39 @@
+product_code,customer_code,market_code,order_date,sales_qty,sales_amount,currency,profit_margin_percentage,profit_margin,cost_price,customer_name,customer_type,market_name,zone
+Prod025,Cus025,Mark011,2017-06-01,30,121067.43,INR,-0.2,-24213.49,145280.92,Path,E-Commerce,Nagpur,Central
+Prod058,Cus008,Mark003,2017-06-01,69,7762.53,INR,-0.24,-1863.01,9625.54,Acclaimed Stores,Brick & Mortar,Ahmedabad,Central
+Prod013,Cus001,Mark009,2017-06-02,8,177259.3,INR,-0.14,-24816.3,202075.6,Surge Stores,Brick & Mortar,Patna,North
+Prod012,Cus007,Mark006,2017-06-03,11,142498.16,INR,0.03,4274.94,138223.22,Info Stores,Brick & Mortar,Bengaluru,South
+Prod054,Cus036,Mark010,2017-06-04,84,103333.27,INR,0.15,15499.99,87833.28,Novus,E-Commerce,Surat,Central
+Prod031,Cus020,Mark004,2017-06-06,88,73279.54,INR,-0.12,-8793.54,82073.08,Nixon,E-Commerce,Delhi NCR,North
+Prod013,Cus010,Mark007,2017-06-06,92,163525.66,INR,-0.29,-47422.44,210948.1,Atlas Stores,Brick & Mortar,Bhopal,Central
+Prod033,Cus022,Mark002,2017-06-07,86,70815.82,INR,-0.03,-2124.47,72940.29,Electricalslytical,E-Commerce,Mumbai,Central
+Prod012,Cus025,Mark008,2017-06-08,70,217887.89,INR,0.34,74081.88,143806.01,Path,E-Commerce,Lucknow,North
+Prod026,Cus017,Mark004,2017-06-08,85,59471.95,INR,0.05,2973.6,56498.35,Epic Stores,Brick & Mortar,Delhi NCR,North
+Prod039,Cus025,Mark003,2017-06-09,20,51869.54,INR,0.0,0.0,51869.54,Path,E-Commerce,Ahmedabad,Central
+Prod046,Cus001,Mark005,2017-06-09,51,252678.95,INR,0.1,25267.9,227411.05,Surge Stores,Brick & Mortar,Kanpur,North
+Prod007,Cus025,Mark001,2017-06-10,30,252198.8,INR,0.38,95835.54,156363.26,Path,E-Commerce,Chennai,South
+Prod033,Cus027,Mark012,2017-06-12,47,124348.28,INR,0.17,21139.21,103209.07,Control,E-Commerce,Kochi,South
+Prod036,Cus016,Mark004,2017-06-13,26,184206.64,INR,0.26,47893.73,136312.91,Logic Stores,Brick & Mortar,Delhi NCR,North
+Prod050,Cus007,Mark005,2017-06-13,13,222275.14,INR,0.38,84464.55,137810.59,Info Stores,Brick & Mortar,Kanpur,North
+Prod035,Cus026,Mark012,2017-06-14,56,223607.2,INR,-0.0,-0.0,223607.2,Insight,E-Commerce,Kochi,South
+Prod009,Cus016,Mark008,2017-06-15,35,43528.97,INR,0.1,4352.9,39176.07,Logic Stores,Brick & Mortar,Lucknow,North
+Prod007,Cus036,Mark003,2017-06-17,32,151109.88,INR,0.21,31733.07,119376.81,Novus,E-Commerce,Ahmedabad,Central
+Prod017,Cus009,Mark003,2017-06-19,13,196677.25,INR,0.26,51136.08,145541.17,Electricalsquipo Stores,Brick & Mortar,Ahmedabad,Central
+Prod059,Cus004,Mark003,2017-06-20,39,45410.59,INR,0.23,10444.44,34966.15,Surface Stores,Brick & Mortar,Ahmedabad,Central
+Prod028,Cus016,Mark004,2017-06-22,33,169567.43,USD,0.02,3391.35,166176.08,Logic Stores,Brick & Mortar,Delhi NCR,North
+Prod015,Cus008,Mark001,2017-06-22,97,233714.96,INR,-0.27,-63103.04,296818.0,Acclaimed Stores,Brick & Mortar,Chennai,South
+Prod046,Cus004,Mark004,2017-06-25,38,76113.02,INR,-0.34,-25878.43,101991.45,Surface Stores,Brick & Mortar,Delhi NCR,North
+Prod015,Cus008,Mark011,2017-06-25,76,54866.39,INR,-0.16,-8778.62,63645.01,Acclaimed Stores,Brick & Mortar,Nagpur,Central
+Prod017,Cus029,Mark006,2017-06-27,30,96443.58,INR,-0.23,-22182.02,118625.6,Electricalsocity,E-Commerce,Bengaluru,South
+Prod005,Cus020,Mark008,2017-06-29,77,177672.85,INR,0.4,71069.14,106603.71,Nixon,E-Commerce,Lucknow,North
+Prod036,Cus002,Mark008,2017-06-29,3,180382.88,INR,-0.11,-19842.12,200225.0,Nomad Stores,Brick & Mortar,Lucknow,North
+Prod058,Cus002,Mark004,2017-07-01,53,217741.44,INR,-0.17,-37016.04,254757.48,Nomad Stores,Brick & Mortar,Delhi NCR,North
+Prod038,Cus017,Mark011,2017-07-01,27,285540.22,INR,0.16,45686.44,239853.78,Epic Stores,Brick & Mortar,Nagpur,Central
+Prod053,Cus003,Mark010,2017-07-02,12,254476.49,INR,-0.22,-55984.83,310461.32,Excel Stores,Brick & Mortar,Surat,Central
+Prod037,Cus002,Mark004,2017-07-02,7,281711.66,INR,-0.16,-45073.87,326785.53,Nomad Stores,Brick & Mortar,Delhi NCR,North
+Prod056,Cus036,Mark006,2017-07-02,77,249820.97,INR,0.1,24982.1,224838.87,Novus,E-Commerce,Bengaluru,South
+Prod003,Cus001,Mark005,2017-07-02,65,165404.53,USD,-0.24,-39697.09,205101.62,Surge Stores,Brick & Mortar,Kanpur,North
+Prod009,Cus002,Mark010,2017-07-03,63,131673.7,INR,0.11,14484.11,117189.59,Nomad Stores,Brick & Mortar,Surat,Central
+Prod054,Cus027,Mark010,2017-07-03,75,239430.56,INR,0.2,47886.11,191544.45,Control,E-Commerce,Surat,Central
+Prod017,Cus001,Mark005,2017-07-04,75,17806.21,INR,0.07,1246.43,16559.78,Surge Stores,Brick & Mortar,Kanpur,North
+Prod005,Cus020,Mark009,2017-07-04,74,259476.21,INR,0.37,96006.2,163470.01,Nixon,E-Commerce,Patna,North
